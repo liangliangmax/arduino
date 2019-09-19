@@ -23,7 +23,7 @@ void setup(){
 
     pinMode(rightLight,OUTPUT);
 
-    myservo.attach(9);
+    myservo.attach(6);
 
 
 }
