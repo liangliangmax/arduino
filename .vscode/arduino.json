@@ -2,5 +2,5 @@
     "programmer": "AVRISP mkII",
     "board": "arduino:avr:uno",
     "port": "COM4",
-    "sketch": "car\\car.ino"
+    "sketch": "汽车综合\\smartcar.ino"
 }
