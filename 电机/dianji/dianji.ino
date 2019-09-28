@@ -1,16 +1,12 @@
-int in_you_dao = 10; //you-dao
-int in_you_zheng = 11; //you-zheng
+int in_you_zheng = 11; //in4
 
-int in_zuo_zheng = 5; 
-int in_zuo_dao = 6;
+int in_zuo_zheng = 10;  // in1
 
 void setup() {
   // put your setup code here, to run once:
-  pinMode(in_you_dao,OUTPUT);
   pinMode(in_you_zheng,OUTPUT);
 
   pinMode(in_zuo_zheng,OUTPUT);
-  pinMode(in_zuo_dao,OUTPUT);
 }
 
 void loop() {
